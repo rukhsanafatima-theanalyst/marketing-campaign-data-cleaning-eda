@@ -1,0 +1,7 @@
+channel,total_campaigns,total_spend,total_conversions,ctr_percent,avg_cpc,cost_per_conversion
+Facebook,397,1760416.71,68441,3.06,2.85,25.72
+TikTok,409,762598.23,67104,3.00,1.25,11.36
+Email,370,2186708.27,61886,2.93,3.96,35.33
+"Google Ads",348,666030.70,59436,3.03,1.27,11.21
+Instagram,357,633951.12,56874,2.98,1.23,11.15
+NULL,99,169749.25,17709,3.25,1.13,9.59

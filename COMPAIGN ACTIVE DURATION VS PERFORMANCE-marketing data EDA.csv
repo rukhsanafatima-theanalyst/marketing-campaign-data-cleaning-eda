@@ -1,0 +1,5 @@
+duration_bracket,total_campaigns,total_spend,total_conversions,avg_ctr_percent,avg_cpc,cost_per_conversion
+"1. Short-term (< 1 Week)",442,1806316.82,74107,2.91,2.74,24.37
+"2. Medium-term (1-2 Weeks)",521,1970418.25,83795,3.04,2.57,23.51
+"3. Standard (15-30 Days)",999,2360813.94,170057,3.03,1.56,13.88
+"4. Long-term (> 30 Days)",18,41905.27,3491,3.58,1.21,12.00

@@ -1,0 +1,13 @@
+channel,is_active,total_campaigns,total_spend,total_conversions,cost_per_conversion
+NULL,Yes,64,121869.22,12411,9.82
+NULL,No,35,47880.03,5298,9.04
+Email,Yes,236,429665.94,38381,11.19
+Email,No,134,1757042.33,23505,74.75
+Facebook,Yes,209,860416.52,33554,25.64
+Facebook,No,188,900000.19,34887,25.80
+"Google Ads",Yes,205,382553.61,32570,11.75
+"Google Ads",No,143,283477.09,26866,10.55
+Instagram,Yes,206,377459.73,35427,10.65
+Instagram,No,151,256491.39,21447,11.96
+TikTok,Yes,249,488686.30,43551,11.22
+TikTok,No,160,273911.93,23553,11.63
